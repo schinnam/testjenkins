@@ -8,3 +8,4 @@ more changes to test git pull
 
 11/12/2017 - testing pipeline-1 from github -- success
 	     pipeline testing 2 from cmd
+	     pipeline tetsing 3 from cmd
